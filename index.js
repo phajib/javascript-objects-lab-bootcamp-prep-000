@@ -1,6 +1,5 @@
 /*Objects function
 defines a 'recipes' object*/
-//function Objects(){
   var recipes = new Object()
 
   /*updateObjectWithKeyAndValue function
